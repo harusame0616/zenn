@@ -3,7 +3,7 @@ title: "Nuxt3 の NuxtError.data に型をつける"
 emoji: "🧱"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nuxt3]
-published: true
+published: false
 ---
 
 ## 概要
